@@ -16,3 +16,8 @@ Will exclude from the backup only one music folder. This argument to exclude mak
 ````
 rsync -azhP --protect-args --itemize-changes --exclude /src-dir/bob/music ./src-dir ~/rsync-sense
 ````
+
+## Verify the copy
+````
+diff --brief --recursive src-dir ~/rsync-sense/src-dir/
+````
