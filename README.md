@@ -1,5 +1,4 @@
 # rsync-sense
-Test your rsync commands.  
 
 ## Exclude options
 
