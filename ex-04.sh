@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo Exclude any dir or file with the letter a in the name
+echo Exclude any dir or file with the letter \'a\' in the name
 
 rm -rf ~/rsync-sense
 

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo Exclude the dir or file cc, anywhere it appears
+echo Exclude the dir or file \'cc\', anywhere it appears
 
 rm -rf ~/rsync-sense
 

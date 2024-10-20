@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo Exclude the dir or file cc but only when its inside foo
+echo Exclude the dir or file \'cc\' but only when its inside \'foo\'
 
 rm -rf ~/rsync-sense
 
